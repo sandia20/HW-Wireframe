@@ -47,7 +47,7 @@
     margin-left:50px;  
   }
 
-  h1 {
+  h1, p {
     background-color: #ccc;
     color:gray;
     font-weight:normal;
@@ -58,17 +58,6 @@
     padding:10px;
   }
   
-  p {
-    background-color:#ccc;
-    color:gray;
-    font-weight: normal;
-    width: 90%;
-    height:40px;
-    margin-left: 2.5%;
-    text-align:center;
-    padding:10px;
-  }
-
   .full-right {
     width:35.7%;
     height: 310px;
